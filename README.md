@@ -1,0 +1,1 @@
+This is a function to practice writing ruby.  It takes daily stock prices stored in an array and returns the most porfitable buy/sell day
